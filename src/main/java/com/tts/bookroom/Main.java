@@ -46,7 +46,7 @@ public class Main {
         printContactInfo();
 
         // Try to borrow The Lords of the Rings from both libraries
-        System.out.println("Borrowing The Lord of the Rings:");
+        System.out.println("Borrowing: The Lord of the Rings:");
         firstLibrary.borrowBook("The Lord of the Rings");
         firstLibrary.borrowBook("The Lord of the Rings");
         secondLibrary.borrowBook("The Lord of the Rings");
