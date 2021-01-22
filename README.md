@@ -2,6 +2,7 @@
 - This is an assignment for wk10day2
 - Added a second library with java books.
 - Added a few more fantasy and science fiction books as well.
+- Added a LibrarySubmission.md for the instructions as well as for easier reading in IntelliJ.
 - Also added fake phone numbers as contact info.
 - Should print the following in the console:
 
