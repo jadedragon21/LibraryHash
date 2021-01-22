@@ -29,7 +29,7 @@ public class Main {
         secondLibrary.addBook(new Book("Learn Java 12 Programming"));
         secondLibrary.addBook(new Book("Core Java Volume I – Fundamentals"));
         secondLibrary.addBook(new Book("Java: A Beginner’s Guide"));
-        secondLibrary.addBook(new Book("Java - The Complete Reference"));
+        secondLibrary.addBook(new Book("Java: The Complete Reference"));
         secondLibrary.addBook(new Book("Head First Java"));
 
         // Print opening hours and the addresses
@@ -59,7 +59,7 @@ public class Main {
         System.out.println();
 
         // Return The Lords of the Rings to the first library
-        System.out.println("Returning The Lord of the Rings:");
+        System.out.println("Returning: The Lord of the Rings.");
         firstLibrary.returnBook("The Lord of the Rings");
         System.out.println();
 
